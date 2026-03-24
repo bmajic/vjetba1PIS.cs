@@ -13,6 +13,8 @@ namespace vjetba1PIS.cs
             Console.WriteLine("Yo soy Bruno");
             Console.WriteLine("Hola!!");
             Console.WriteLine("Novi");
+            Console.WriteLine("Novi123");
         }
     }
 }
+//promjena poslao poruku novu poruku

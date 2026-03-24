@@ -16,5 +16,10 @@ namespace vjetba1PIS.cs
             Console.WriteLine("Novi123");
         }
     }
+
+    internal class newCLass
+    {
+
+    }
 }
 //promjena poslao poruku novu poruku

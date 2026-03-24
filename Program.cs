@@ -10,6 +10,8 @@ namespace vjetba1PIS.cs
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Yo soy Bruno");
+            Console.WriteLine("Hola!!");
         }
     }
 }

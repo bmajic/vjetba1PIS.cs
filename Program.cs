@@ -19,7 +19,7 @@ namespace vjetba1PIS.cs
 
     internal class newCLass
     {
-
+        void metoda() { }
     }
 }
 //promjena poslao poruku novu poruku
